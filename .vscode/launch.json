@@ -1,0 +1,11 @@
+{
+    "configurations": [
+    
+        {
+            "type": "chrome",
+            "name": "https://tsbuatsa:8090",
+            "request": "launch",
+            "url": "https://tsbuatsa:8090"
+        }
+    ]
+}
